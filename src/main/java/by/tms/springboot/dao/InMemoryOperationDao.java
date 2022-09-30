@@ -1,8 +1,7 @@
-package by.tms.springboot.Dao;
+package by.tms.springboot.dao;
 
 import by.tms.springboot.entity.Operation;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Controller;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
 package by.tms.springboot.services;
 
 
-import by.tms.springboot.Dao.InMemoryOperationDao;
+import by.tms.springboot.dao.InMemoryOperationDao;
 import by.tms.springboot.entity.Operation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
